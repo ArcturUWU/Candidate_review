@@ -1,0 +1,10 @@
+fastapi==0.115.5
+uvicorn==0.32.0
+SQLAlchemy==2.0.23
+alembic==1.12.1
+pydantic==2.4.2
+pydantic-settings==2.0.3
+python-multipart==0.0.6
+requests==2.31.0
+httpx==0.25.2
+aiofiles==23.2.1

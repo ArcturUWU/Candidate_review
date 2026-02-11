@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Databases
+*.db
+
+# Frontend
+node_modules/
+dist/
